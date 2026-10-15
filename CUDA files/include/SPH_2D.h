@@ -8,7 +8,6 @@
 #include <string>
 
 // -----------------------------------------------------------------------------
-// Physical and Simulation Constants 
 // (Refactored from macros to modern C++ constants)
 // -----------------------------------------------------------------------------
 const double MU = 0;          // Dynamic viscosity of water (Pa.s)
